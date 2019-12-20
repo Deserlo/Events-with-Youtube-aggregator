@@ -1,4 +1,4 @@
-## Sactown Lowdown Music Events Website
+## Music Events Website
 ### View it at  SactownLowdown.com
 
 - This project consists of  web scrapers for getting music event data grabbed from venue websites
