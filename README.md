@@ -5,7 +5,7 @@ Mobile friendly, responsive website displaying local music shows
 - Static html page generator to display events in list form
 - Script to grab music video links called through YouTube API
 
-
+<p>Desktop</p>
 ![Desktop Version](https://github.com/Deserlo/Events-with-Youtube-aggregator/blob/master/stlddesktopcapture.PNG)
 
 <p>Tablet Version:</p>
