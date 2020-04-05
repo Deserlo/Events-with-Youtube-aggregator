@@ -1,6 +1,6 @@
 # Sactown Lowdown Music Events Website
 
-## *Update*
+## *Update 4/5/2020*
 <p>Currently redesigning and developing a  new UI and migrating to a Flask app using Python 3, MongoDB and using Gunicorn WSGI.</p>
 
 ### Staged on Heroku while in development. 
