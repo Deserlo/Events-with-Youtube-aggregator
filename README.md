@@ -11,9 +11,12 @@
 
 ![New App](https://github.com/Deserlo/Events-with-Youtube-aggregator/blob/master/update452020.PNG)
 
+
 ## Original Project: 
 > [https://www.sactownlowdown.com](https://sactownlowdown.com)
+
 <p> Mobile friendly, responsive website displaying local music shows </p>
+
 - This project consists of  web scrapers for getting music event data grabbed from venue websites
 - Static html page generator to display events in list form
 - Script to grab music video links called through YouTube API
