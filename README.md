@@ -6,11 +6,10 @@
 ### Staged on Heroku while in development. 
 > [https://sac-shows.herokuapp.com/](https://sac-shows.herokuapp.com/)
 
-![New App](https://github.com/Deserlo/Events-with-Youtube-aggregator/blob/master/update452020.PNG)
-
 ### GitHub:
 > [https://github.com/Deserlo/sacshows](https://github.com/Deserlo/sacshows)
 
+![New App](https://github.com/Deserlo/Events-with-Youtube-aggregator/blob/master/update452020.PNG)
 
 ## Original Project: 
 > [https://www.sactownlowdown.com](https://sactownlowdown.com)
