@@ -10,8 +10,8 @@
 > [https://github.com/Deserlo/sacshows](https://github.com/Deserlo/sacshows)
 
 
-### Original Project: 
-### [https://www.sactownlowdown.com] (https://sactownlowdown.com)
+## Original Project: 
+> [https://www.sactownlowdown.com] (https://sactownlowdown.com)
 Mobile friendly, responsive website displaying local music shows
 - This project consists of  web scrapers for getting music event data grabbed from venue websites
 - Static html page generator to display events in list form
