@@ -1,16 +1,17 @@
-## Sactown Lowdown Music Events Website
+# Sactown Lowdown Music Events Website
 
 ## *Update*
 <p>Currently redesigning and developing a  new UI and migrating to a Flask app using Python 3, MongoDB and using Gunicorn WSGI.</p>
 
-Staged on Heroku while in development. 
+### Staged on Heroku while in development. 
 > [https://sac-shows.herokuapp.com/](https://sac-shows.herokuapp.com/)
 
-GitHub:
+### GitHub:
 > [https://github.com/Deserlo/sacshows](https://github.com/Deserlo/sacshows)
 
 
-### View it at SactownLowdown.com
+### Original Project: 
+### [https://www.sactownlowdown.com] (https://sactownlowdown.com)
 Mobile friendly, responsive website displaying local music shows
 - This project consists of  web scrapers for getting music event data grabbed from venue websites
 - Static html page generator to display events in list form
